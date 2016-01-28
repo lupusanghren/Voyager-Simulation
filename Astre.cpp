@@ -1,4 +1,4 @@
-#include "C:\Users\Maxime\Documents\Codeblocks\CodeBlocks\Bwin\Simulation Voyager\include\Astre.h"
+#include "Astre.h"
 
 Astre::Astre()
 {
