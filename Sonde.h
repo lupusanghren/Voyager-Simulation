@@ -1,8 +1,8 @@
 #ifndef SONDE_H
 #define SONDE_H
 
-#include "C:\Users\Maxime\Documents\Codeblocks\CodeBlocks\Bwin\Simulation Voyager\include\Astre.h"
-#include "C:\Users\Maxime\Documents\Codeblocks\CodeBlocks\Bwin\Simulation Voyager\include\Matrice.h"
+#include "Astre.h"
+#include "Matrice.h"
 
 class Sonde
 {
